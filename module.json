@@ -67,6 +67,6 @@
   "url": "https://github.com/Kaallis/fvtt-module-stream-view",
   "bugs": "https://github.com/Kaallis/fvtt-module-stream-view/issues",
   "changelog": "https://github.com/Kaallis/fvtt-module-stream-view/blob/master/CHANGELOG.md",
-  "manifest": "https://raw.githubusercontent.com/Kaallis/fvtt-module-stream-view/master/module.json",
-  "download": "https://github.com/Kaallis/fvtt-module-stream-view/releases/download/v12/v12.zip"
+  "manifest": "https://github.com/Kaallis/fvtt-module-stream-view/releases/download/v12/module.json",
+  "download": "https://github.com/Kaallis/fvtt-module-stream-view/releases/download/v12/module.zip"
 }
